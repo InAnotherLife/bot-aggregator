@@ -4,6 +4,8 @@ https://github.com/InAnotherLife/bot-aggregator
 
 https://t.me/JohnWooooo
 
+[![Bot aggregator workflow](https://github.com/InAnotherLife/bot-aggregator/actions/workflows/main.yml/badge.svg)](https://github.com/InAnotherLife/bot-aggregator/actions/workflows/main.yml)
+
 ## О проекте
 Приложение представляет собой телеграм бот для агрегации статистических данных о зарплатах сотрудников по временным промежуткам (месяцам, дням, часам).\
 Приложение разработано на языке Python версии 3.9. Код программы находится в папке src.\
