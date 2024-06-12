@@ -26,7 +26,7 @@ async def get_result(message: types.Message, aggregation: Aggregation) -> None:
 
 async def start_bot(token: str, aggregation: Aggregation) -> None:
     """
-    Запуск телеграм бота, устанавка обработчика handle_all_messages для всех
+    Запуск телеграм бота, установка обработчика handle_all_messages для всех
     входящих сообщений.
     """
     bot = Bot(token=token)
