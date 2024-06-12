@@ -1,6 +1,6 @@
 # Телеграм бот для агрегации статистических данных о зарплатах сотрудников
 
-https://github.com/InAnotherLife/runners
+https://github.com/InAnotherLife/bot-aggregator
 
 https://t.me/JohnWooooo
 
