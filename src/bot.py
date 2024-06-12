@@ -32,10 +32,5 @@ async def start_bot(TOKEN: str, aggregation: Aggregation):
     await dp.start_polling()
 
 if __name__ == '__main__':
-    # aggregation = Aggregation()
-    # loop = asyncio.get_event_loop()
-    # loop.create_task(start_bot(os.getenv('TOKEN'), aggregation))
-    # loop.run_forever()
     aggregation = Aggregation()
-    # TOKEN = os.getenv('TOKEN')
     asyncio.run(start_bot(os.getenv('TOKEN'), aggregation))
